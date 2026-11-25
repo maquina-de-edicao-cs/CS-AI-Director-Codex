@@ -1,0 +1,1 @@
+{"name":"@cs-ai-director/camera-engine","version":"0.1.0","private":true,"type":"module","exports":{".":"./src/index.ts"},"dependencies":{"@cs-ai-director/visual-commands":"workspace:*"}}

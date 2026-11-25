@@ -1,0 +1,1 @@
+{"name":"@cs-ai-director/director-core","version":"0.1.0","private":true,"type":"module","exports":{".":"./src/index.ts"},"dependencies":{"@cs-ai-director/camera-engine":"workspace:*","@cs-ai-director/visual-commands":"workspace:*"}}

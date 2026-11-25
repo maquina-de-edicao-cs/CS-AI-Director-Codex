@@ -1,0 +1,8 @@
+node_modules/
+dist/
+dist-playground/
+.vite/
+coverage/
+.cache/
+.pnpm-store/
+.DS_Store
