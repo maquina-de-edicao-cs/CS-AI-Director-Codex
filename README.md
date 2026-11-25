@@ -24,6 +24,10 @@ pnpm build
 pnpm build:playground
 ```
 
+## Preparação para Vercel
+
+O arquivo `vercel.json` define instalação com lockfile, build do aplicativo web e saída estática em `dist`. O projeto da Vercel deve usar a raiz deste repositório como **Root Directory**. Esta configuração não cria um projeto Vercel nem publica o app; confirme equipe, projeto, domínio e ambiente de destino antes de fazer deploy. O playground não faz parte da publicação web.
+
 ## Visão da primeira versão
 
 O usuário escolhe um comando visual, ajusta parâmetros de câmera, vê o movimento numa cena 3D interativa, inspeciona uma linha do tempo e obtém um prompt expandido. Pode copiar o resultado e salvar/carregar um projeto local. O produto deve funcionar sem conta, backend ou API paga na primeira entrega.
